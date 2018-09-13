@@ -22,5 +22,6 @@ Features :
  
  <u>You also contact us for Android and iOS App :</u>
 
-1) <a href="https://rackons.in" target="_blank">Android and iOS APP</a>
+1) <a href="https://rackons.in" target="_blank">Android and iOS APP</a><br>
+
 If you need more information, you can visit our <a href="https://forums.rackons.in/" target="_blank">forums</a> or <a href="https://osclassmarket.rackons.in/" target="_blank">officially Rackons Market</a>
